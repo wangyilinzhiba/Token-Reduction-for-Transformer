@@ -2,3 +2,4 @@
 1. 【TPAMI】【LTM】Efficient Visual Transformer by Learnable Token Merging [paper](https://arxiv.org/abs/2407.15219) | [code](https://github.com/Statistical-Deep-Learning/LTM)
 1. 【NeurIPS 2024】【PiToMe】Accelerating Transformers with Spectrum-Preserving Token Merging [paper](https://arxiv.org/abs/2405.16148) | [code](https://github.com/hchautran/PiToMe)
 1. 【WACV 2024】Token Fusion: Bridging the Gap between Token Pruning and Token Merging [paper](https://arxiv.org/abs/2312.01026) |
+1. 【CVPR 2024】Efficient Transformer Adaptation with Soft Token Merging [paper](https://openaccess.thecvf.com/content/CVPR2024W/ELVM/html/Yuan_Efficient_Transformer_Adaptation_with_Soft_Token_Merging_CVPRW_2024_paper.html) |
