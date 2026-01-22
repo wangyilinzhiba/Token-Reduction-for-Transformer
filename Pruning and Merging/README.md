@@ -1,1 +1,2 @@
-
+1. 【ICCV 2025】LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[paper](https://arxiv.org/pdf/2403.15388)] | [[code](https://github.com/42Shawn/LLaVA-PruMerge?tab=readme-ov-file)]
+1. 【IEEE TRANSACTIONS ONMULTIMEDIA】Prune and Merge: Efficient Token Compression For Vision Transformer With Spatial Information Preserved [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10855481)] | [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/prune_and_merge)]
