@@ -1,1 +1,1 @@
-# Token-Reduction-for-Transformer
+# Token-Reduction-for-ViT
