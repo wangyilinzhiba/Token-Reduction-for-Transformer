@@ -3,3 +3,4 @@
 1. 【ICCV 2025】Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration [[paper](https://arxiv.org/pdf/2412.13180)]|[[code](https://github.com/markendo/FEATHER)]
 1. 【Under submittion】TransPrune: Token Transition Pruning for Efficient Large Vision-Language Model [[paper](https://arxiv.org/pdf/2507.20630)]|[[code](https://github.com/liaolea/TransPrune)]
 1. 【CVPR 2025】DivPrune: Diversity-based Visual Token Pruning for Large Multimodal Models [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Alvar_DivPrune_Diversity-based_Visual_Token_Pruning_for_Large_Multimodal_Models_CVPR_2025_paper.pdf)]|[[code](https://github.com/vbdi/divprune)]
+1. 【CVPR 2025】Attribution-Driven Adaptive Token Pruning for Transformers [[paper](https://openreview.net/pdf?id=MzN2Xi7EMa)]|[[code]()]
